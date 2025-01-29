@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ToggleThemeUserDisplay/static/css/main.2472902d.css",
+    "main.js": "/ToggleThemeUserDisplay/static/js/main.53b2fb6c.js",
+    "index.html": "/ToggleThemeUserDisplay/index.html",
+    "main.2472902d.css.map": "/ToggleThemeUserDisplay/static/css/main.2472902d.css.map",
+    "main.53b2fb6c.js.map": "/ToggleThemeUserDisplay/static/js/main.53b2fb6c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2472902d.css",
+    "static/js/main.53b2fb6c.js"
+  ]
+}
